@@ -1,0 +1,20 @@
+class UglyCritter extends Critter(){
+  
+  UglyCritter(){
+  }
+  
+   void passDay(){
+    eat();
+    snooze();
+  }
+  
+  //70%
+  void eat(){
+  }
+  
+  // 50%
+  void snooze(){
+  }
+  
+}
+
